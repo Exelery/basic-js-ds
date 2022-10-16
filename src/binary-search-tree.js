@@ -70,11 +70,6 @@ class BinarySearchTree {
       direction = data > node.data ? 'right' : 'left'
     }
 
-    // else return this.find(node[direction], data)
-    // throw new NotImplementedError('Not implemented');
-    // remove line with error and write your code here
-    
-
     return null
   }
 
